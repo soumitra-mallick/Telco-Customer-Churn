@@ -52,7 +52,7 @@ telco-churn/
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/Drew-Zeimetz/telco-churn.git
+git clone https://github.com/soumitra-mallick/Telco-Customer-Churn
 cd telco-churn
 ```
 
